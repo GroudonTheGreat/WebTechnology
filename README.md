@@ -1,2 +1,0 @@
-# WebTechnology
-Task 1
